@@ -21,10 +21,10 @@
     sudo systemctl stop wazuh-manager (melakukan stop aktivitas wazuh-manager)
 ![Teks alternatif untuk gambar](pict/wazuhman-tests%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2010_12_2025%207_30_23%20PM.png)
 
-Untuk wazuh manager saat sudah aktif
+## Untuk wazuh manager saat sudah aktif
 ![Teks alternatif untuk gambar](pict/wazuhman-tests%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2010_12_2025%207_30_32%20PM.png)
 
-Untuk wazuh manager saat sudah inactive
+## Untuk wazuh manager saat sudah inactive
 ![Teks alternatif untuk gambar](pict/wazuhman-tests%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2010_12_2025%207_38_36%20PM.png)
 
 
